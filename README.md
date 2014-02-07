@@ -1,7 +1,7 @@
 dailymailheadlines
 ==================
 
-A proxy that uses a markpv chain to replace headlines on the daily mail home page
+A proxy that uses a markov chain to replace headlines on the daily mail home page
 
 On macos start chrome using
 
